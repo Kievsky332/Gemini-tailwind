@@ -48,7 +48,7 @@ Gemini-tailwind/
 
 - **Демо-версия (Live):** [kievsky332.github.io/Gemini-tailwind](https://kievsky332.github.io/Gemini-tailwind/)
 - **Исходный код:** [github.com/Kievsky332/Gemini-tailwind](https://github.com/Kievsky332/Gemini-tailwind)
-
+- **Референс** [https://gemini.google.com](https:/gemini.google.com)
 ---
 
 ## Поддержка и обратная связь
